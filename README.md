@@ -69,4 +69,5 @@ I've been a professional web developer since 2017 and coding has been a hobby si
 	</a>
 </p>
 
-Based on template at [ProfileMe.dev](https://www.profileme.dev/)
+<br />
+<sub>Created with a template from <a href="https://www.profileme.dev/" target="_blank" rel="noreferrer">ProfileMe.dev</a></sub>
